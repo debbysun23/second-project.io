@@ -1,0 +1,46 @@
+body{
+  background-color:white;
+
+}
+
+#main-content{
+  background: yellow;
+  margin: 0 auto;
+  width: 800px;
+  padding: 20px;
+  height: 100%;
+  }
+
+  .sub{
+    text-align: center;
+  }
+
+  h1{
+    padding-left: 20px;
+  }
+
+button{
+  display: block;
+  color: #fff;
+  margin: 0 350px;
+  width: 120px;
+  padding-left:2px;
+  padding-right:2px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border: 1px solid #110000;
+  border-radius: 4px;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: red;
+}
+
+button{
+position: relative;
+margin-bottom: -25px;
+margin-top: 30px;
+}
+
+a:hover{
+  color: black;
+}
